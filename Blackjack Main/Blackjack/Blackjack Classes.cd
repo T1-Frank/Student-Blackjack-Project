@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Blackjack.BlackjackHand">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABIAgEBAIAAAAAAAAAAAAAAAAggAAIAAA=</HashCode>
+      <FileName>BlackjackHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blackjack.DealerBlackjackHand">
+    <Position X="0.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAADAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DealerBlackjackHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blackjack.PlayerBlackjackHand">
+    <Position X="5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAACAAAAAgAAAAICAABSAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerBlackjackHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blackjack.Shoe">
+    <Position X="5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shoe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cards.Deck" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Cards.PileOfCards" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cards.Card" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Blackjack.FormGame" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EQAQCBAmACQEABIAAACAQIIiIAAwgEAJIFpBAAUADAg=</HashCode>
+      <FileName>FormGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blackjack.BlackjackHandPanel" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAEACBAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlackjackHandPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

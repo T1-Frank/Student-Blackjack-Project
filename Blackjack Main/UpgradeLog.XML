@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Assignment 3 Solution">
+</Property><Property Name="Solution File" Value="C:\Users\Mark Goles\Documents\Moorpark\CSM10D Spring 2010\Assignments\Assignment 3\Assignment 3 Solution\Assignment 3 Solution.sln">
+</Property><Property Name="Date" Value="Monday, February 08, 2010">
+</Property><Property Name="Time" Value="21:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cards" Source="Cards\Cards.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cards" Source="Cards\Cards.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Assignment 3 Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Assignment 3 Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Cards" Source="Cards\Cards.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

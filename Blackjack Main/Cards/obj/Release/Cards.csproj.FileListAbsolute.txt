@@ -1,0 +1,7 @@
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\bin\Release\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\bin\Release\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Release\Cards.CardPanel.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Release\Cards.Images.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Release\Cards.csproj.GenerateResource.Cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Release\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Release\Cards.pdb

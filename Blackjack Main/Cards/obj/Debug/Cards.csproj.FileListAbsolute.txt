@@ -1,0 +1,16 @@
+F:\blackjack-windows-form-master\Blackjack\Cards\bin\Debug\Cards.dll
+F:\blackjack-windows-form-master\Blackjack\Cards\bin\Debug\Cards.pdb
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.CardPanel.resources
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.Images.resources
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.dll
+F:\blackjack-windows-form-master\Blackjack\Cards\obj\Debug\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\bin\Debug\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\bin\Debug\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.CardPanel.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.Images.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Cards\obj\Debug\Cards.pdb

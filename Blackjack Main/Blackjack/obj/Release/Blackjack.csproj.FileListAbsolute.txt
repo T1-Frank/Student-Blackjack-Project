@@ -1,0 +1,27 @@
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Release\Blackjack.exe.config
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Release\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Release\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Release\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Release\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.BlackjackHandPanel.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.FormGame.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.Properties.Resources.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.csproj.GenerateResource.Cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Release\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\bin\Release\Blackjack.exe.config
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\bin\Release\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\bin\Release\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\bin\Release\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\bin\Release\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.BlackjackHandPanel.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.FormGame.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.Properties.Resources.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack Main\Blackjack\obj\Release\Blackjack.csproj.GenerateResource.Cache
+F:\Projects\W7MSRF657 Francois Cloete C# basic project 1\W7MSRF657 Francois Cloete C# basic project 1\Blackjack Main\Blackjack\bin\Release\Blackjack.exe.config
+F:\Projects\W7MSRF657 Francois Cloete C# basic project 1\W7MSRF657 Francois Cloete C# basic project 1\Blackjack Main\Blackjack\obj\Release\Blackjack.exe
+F:\Projects\W7MSRF657 Francois Cloete C# basic project 1\W7MSRF657 Francois Cloete C# basic project 1\Blackjack Main\Blackjack\obj\Release\Blackjack.pdb

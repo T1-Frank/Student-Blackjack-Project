@@ -1,0 +1,25 @@
+F:\blackjack-windows-form-master\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+F:\blackjack-windows-form-master\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+F:\blackjack-windows-form-master\Blackjack\Blackjack\bin\Debug\Cards.dll
+F:\blackjack-windows-form-master\Blackjack\Blackjack\bin\Debug\Cards.pdb
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.BlackjackHandPanel.resources
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.FormGame.resources
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+F:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+I:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+I:\blackjack-windows-form-master\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Debug\Cards.dll
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Debug\Cards.pdb
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.BlackjackHandPanel.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.FormGame.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+C:\Users\W7MSRF657\Desktop\Temp account\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
